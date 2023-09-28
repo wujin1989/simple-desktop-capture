@@ -10,7 +10,11 @@
     "\\include",
     "\\src",
     "\\src\\platform",
-    "\\src\\platform\\win"
+    "\\src\\platform\\win",
+    "\\third-party",
+    "\\third-party\\cdk",
+    "\\third-party\\cdk\\lib"
   ],
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }
